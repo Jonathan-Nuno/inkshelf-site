@@ -1,0 +1,17 @@
+CC0 1.0 Universal (Public Domain Dedication)
+SPDX identifier: CC0-1.0
+
+Applies to: Hokusai Manga, volume 5, as digitised by the Smithsonian Libraries and Archives
+(samples/hokusai-manga-v05.cbz).
+
+Human-readable summary (deed): https://creativecommons.org/publicdomain/zero/1.0/
+Full legal code:               https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Rights statement on the source page (https://library.si.edu/digital-library/book/hokusaimangav5kats,
+checked 2026-10-16): "CC0 - Creative Commons (CC0 1.0) ... No Copyright - United States".
+Attribution requested by the Smithsonian (https://library.si.edu/copyright): "Courtesy of the
+Smithsonian Libraries and Archives", with a link back to the original source.
+
+NOTE: this file points to the legal code rather than reproducing it. The unmodified legal code
+text is published by Creative Commons at the URL above; it was not fetched while preparing this
+site because the preparation was limited to the two approved download sources.

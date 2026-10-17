@@ -1,0 +1,19 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+SPDX identifier: CC-BY-4.0
+
+Applies to: Pepper&Carrot by David Revoy (samples/pepper-carrot-ep01.cbz,
+pepper-carrot-ep02.cbz, pepper-carrot-strip.cbz).
+
+Human-readable summary (licence deed): https://creativecommons.org/licenses/by/4.0/
+Full legal code:                       https://creativecommons.org/licenses/by/4.0/legalcode
+
+Credit line to use: (c) David Revoy, www.peppercarrot.com, CC BY 4.0
+Indicate changes: see CREDITS.md and the LICENSE.txt inside each archive.
+
+Licence statement on the source site (https://www.peppercarrot.com/en/about/index.html#license,
+checked 2026-10-16): "Pepper&Carrot webcomics, translations and artworks are licensed under a
+Creative Commons Attribution 4.0 International license unless otherwise noted (eg. fan-arts)".
+
+NOTE: this file points to the legal code rather than reproducing it. The unmodified legal code
+text is published by Creative Commons at the URL above; it was not fetched while preparing this
+site because the preparation was limited to the two approved download sources.

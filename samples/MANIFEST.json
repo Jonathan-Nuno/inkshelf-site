@@ -1,0 +1,227 @@
+{
+  "generated_utc": "2026-10-17T02:35:14Z",
+  "tool": "tools/make-samples.py",
+  "pillow": "12.3.0",
+  "licence_pages": [
+    {
+      "url": "https://www.peppercarrot.com/en/about/index.html",
+      "file": "cache/licence/peppercarrot-about.html",
+      "content_type": "text/html",
+      "last_modified": null,
+      "final_url": "https://www.peppercarrot.com/en/about/index.html",
+      "source": "downloaded",
+      "retrieved_utc": "2026-10-17T02:33:32Z",
+      "bytes": 84108,
+      "sha256": "e5a773e0f43b548939faf25974d552604772e64d181ec26bb50fcfe4e481ab22",
+      "quoted": "Pepper&Carrot webcomics, translations and artworks are licensed under a Creative Commons Attribution 4.0 International license unless otherwise noted",
+      "also_states": [
+        "AI derivation prohibited"
+      ]
+    },
+    {
+      "url": "https://library.si.edu/digital-library/book/hokusaimangav5kats",
+      "file": "cache/licence/si-hokusai-v5.html",
+      "content_type": "text/html",
+      "last_modified": "Fri, 16 Oct 2026 15:29:33 GMT",
+      "final_url": "https://library.si.edu/digital-library/book/hokusaimangav5kats",
+      "source": "downloaded",
+      "retrieved_utc": "2026-10-17T02:33:32Z",
+      "bytes": 60577,
+      "sha256": "586d7fe67932e0d34ec4e0b802f36f7fcbda21fc760ab3b4cd2669f965113d98",
+      "quoted": "CC0 — Creative Commons (CC0 1.0) This content is in the public domain (free of copyright restrictions). You can copy, modify, and distribute this work without contacting the Smithsonian."
+    },
+    {
+      "url": "https://library.si.edu/copyright",
+      "file": "cache/licence/si-copyright.html",
+      "content_type": "text/html",
+      "last_modified": "Fri, 16 Oct 2026 17:51:54 GMT",
+      "final_url": "https://library.si.edu/copyright",
+      "source": "downloaded",
+      "retrieved_utc": "2026-10-17T02:33:32Z",
+      "bytes": 46048,
+      "sha256": "f06623aee69ed93e1b0ab4445d4397b4e850dccaa3fbfbee5e52d488a700b3b4",
+      "quoted": "We ask that an attribution statement such as \"Courtesy of the Smithsonian Libraries and Archives\" is used, along with a link back to the original source on our site."
+    }
+  ],
+  "downloads": [
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep01_Potion-of-Flight/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E01P01.jpg",
+      "file": "cache/pepper-carrot/ep01/en_Pepper-and-Carrot_by-David-Revoy_E01P01.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:08Z",
+      "bytes": 2200446,
+      "sha256": "c532b3e5674d8b833e99dbc455d43ebc73225044fc3ec4426d0c846de19b7af9",
+      "sample": "pepper-carrot-ep01",
+      "page": "P01",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep01_Potion-of-Flight/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E01P02.jpg",
+      "file": "cache/pepper-carrot/ep01/en_Pepper-and-Carrot_by-David-Revoy_E01P02.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:09Z",
+      "bytes": 2211587,
+      "sha256": "f81683fd9d28d08ad6ad8b63d06f4e5778619682d6caa46ef88d26abf1331e1d",
+      "sample": "pepper-carrot-ep01",
+      "page": "P02",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep01_Potion-of-Flight/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E01P03.jpg",
+      "file": "cache/pepper-carrot/ep01/en_Pepper-and-Carrot_by-David-Revoy_E01P03.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:10Z",
+      "bytes": 1468203,
+      "sha256": "5f5cdfb2ce20c87e5779b2c8951639b445441f0fb9f58d8bccb989599e20f717",
+      "sample": "pepper-carrot-ep01",
+      "page": "P03",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep02_Rainbow-potions/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E02P01.jpg",
+      "file": "cache/pepper-carrot/ep02/en_Pepper-and-Carrot_by-David-Revoy_E02P01.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:12Z",
+      "bytes": 2996706,
+      "sha256": "79949f1a82f21cf41fa88fa4c5fc23bc33ecdab9a24bca4a43579fd9caec2997",
+      "sample": "pepper-carrot-ep02",
+      "page": "P01",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep02_Rainbow-potions/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E02P02.jpg",
+      "file": "cache/pepper-carrot/ep02/en_Pepper-and-Carrot_by-David-Revoy_E02P02.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:13Z",
+      "bytes": 2387718,
+      "sha256": "043962cbeb430f576713d27bb1173b054550e061cd6df870071661a229d5fcb8",
+      "sample": "pepper-carrot-ep02",
+      "page": "P02",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep02_Rainbow-potions/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E02P03.jpg",
+      "file": "cache/pepper-carrot/ep02/en_Pepper-and-Carrot_by-David-Revoy_E02P03.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:14Z",
+      "bytes": 2454053,
+      "sha256": "917e29765e1fe92c8d12ce2ca0e9020f238d9d539e605dd6b4e1d9cbe0d7b1c9",
+      "sample": "pepper-carrot-ep02",
+      "page": "P03",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep02_Rainbow-potions/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E02P04.jpg",
+      "file": "cache/pepper-carrot/ep02/en_Pepper-and-Carrot_by-David-Revoy_E02P04.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:15Z",
+      "bytes": 2306136,
+      "sha256": "354e225747954ca050ab54eb096a3a08b25c7454db78db7b2a124f6704499f6c",
+      "sample": "pepper-carrot-ep02",
+      "page": "P04",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep02_Rainbow-potions/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E02P05.jpg",
+      "file": "cache/pepper-carrot/ep02/en_Pepper-and-Carrot_by-David-Revoy_E02P05.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:16Z",
+      "bytes": 1935728,
+      "sha256": "cf73018f0b8e9ce85e60e11046c1d968a5e68156e03ccfc53ab06c46fa5341f5",
+      "sample": "pepper-carrot-ep02",
+      "page": "P05",
+      "width": 2481,
+      "height": 3503,
+      "icc_profile": false
+    },
+    {
+      "url": "https://www.peppercarrot.com/0_sources/ep02_Rainbow-potions/hi-res/en_Pepper-and-Carrot_by-David-Revoy_E02P06.jpg",
+      "file": "cache/pepper-carrot/ep02/en_Pepper-and-Carrot_by-David-Revoy_E02P06.jpg",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:18Z",
+      "bytes": 662728,
+      "sha256": "34581e574e539c7386e7e61434e90bd82a5f53abc53c0abad2873aae016f228d",
+      "sample": "pepper-carrot-ep02",
+      "page": "P06",
+      "width": 2481,
+      "height": 900,
+      "icc_profile": false
+    },
+    {
+      "url": "https://archive.org/download/hokusaimangav5kats/hokusaimangav5kats_jp2.zip",
+      "file": "cache/hokusai/hokusaimangav5kats_jp2.zip",
+      "source": "cache",
+      "retrieved_utc": "2026-10-17T02:17:23Z",
+      "bytes": 70080208,
+      "sha256": "f53ecc14e2967e31bfd3bc86e577e335befa51c43f8f32abdd5480ed79b5d962",
+      "sample": "hokusai-manga-v05",
+      "linked_from": "https://library.si.edu/digital-library/book/hokusaimangav5kats",
+      "page_images_in_scan": 35,
+      "first_member": "hokusaimangav5kats_jp2/hokusaimangav5kats_0001.jp2",
+      "last_member": "hokusaimangav5kats_jp2/hokusaimangav5kats_0035.jp2"
+    }
+  ],
+  "samples": [
+    {
+      "file": "samples/pepper-carrot-ep01.cbz",
+      "bytes": 5882461,
+      "sha256": "b76ee56ef823a4f39f42249fa4591c764793090391041a79f7973f477a02f357",
+      "pages": 3,
+      "series": "Pepper&Carrot",
+      "number": "1",
+      "first_page_size": "2481x3503",
+      "manga": "No",
+      "vertical_default": false
+    },
+    {
+      "file": "samples/pepper-carrot-ep02.cbz",
+      "bytes": 12745898,
+      "sha256": "9ca6c3b2e5a562be95bf3ee25349840e1f67a782ecdcffabe0c4a9f97ce490f3",
+      "pages": 6,
+      "series": "Pepper&Carrot",
+      "number": "2",
+      "first_page_size": "2481x3503",
+      "manga": "No",
+      "vertical_default": false
+    },
+    {
+      "file": "samples/pepper-carrot-strip.cbz",
+      "bytes": 375327,
+      "sha256": "a4ea60fc1cc70ad592805eba79e5a85c5df186ab6c653cd4d32951b74bd22838",
+      "pages": 2,
+      "series": "Pepper&Carrot (vertical)",
+      "number": "1",
+      "first_page_size": "800x2260",
+      "manga": "No",
+      "vertical_default": true
+    },
+    {
+      "file": "samples/hokusai-manga-v05.cbz",
+      "bytes": 14439255,
+      "sha256": "3dc51eee098cd7467ebfe240fede08b55fabec0c6251a1b55aaf6a69f9d3a857",
+      "pages": 35,
+      "series": "Hokusai Manga",
+      "number": "5",
+      "first_page_size": "1157x1600",
+      "manga": "YesAndRightToLeft",
+      "vertical_default": false
+    }
+  ],
+  "hokusai_volume": 5,
+  "hokusai_content_check": "Volume 5 (hokusaimangav5kats): all 35 scan images (indices 0-34) were viewed one by one on numbered contact sheets (--contact-sheets); plates 9, 21 and 27, which show figures in loincloths, were also viewed enlarged. Contents: front and back cover (0, 34), front matter and title pages (1, 2), deity and court portraits (3, 18-20, 24, 25, 28, 29), shrine gates, bells, temple roofs and buildings (4-8, 11-17), guardian demons and a priest (9, 10), wrestlers (21), Mount Fuji and waves (23, 26), a hungry-ghost demon (27) and the publisher's catalogue (30-33). No nude figures and no bawdy or erotic plates were found, so volume 5 is used with no pages left out.",
+  "hokusai_excluded_scan_pages": {}
+}
